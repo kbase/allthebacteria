@@ -1,7 +1,3 @@
-Here’s a polished and comprehensive **README.md** for the AllTheBacteria repository, summarizing its purpose, data structure, usage, and contribution guidelines — based on the official documentation overview ([allthebacteria.readthedocs.io][1]):
-
----
-
 # AllTheBacteria
 
 A standardized, large-scale collection of uniformly assembled prokaryotic genomes, spanning **2.4 million bacterial** and **815 archaeal** assemblies. Extends the original 661K genomes (Blackwell et al. 2021) by incorporating comprehensive assembly, annotation, and metadata assets.
