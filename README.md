@@ -108,13 +108,6 @@ cd AllTheBacteria
 * Blackwell et al. (2021) PLOS Biology, 661K bacterial genomes
 * ReadTheDocs for full [overview, metadata, assembly, annotation guides](https://allthebacteria.readthedocs.io/en/latest/overview.html)
 
----
-
-Explore More: Additional documentation available for **Batch OSF Downloads**, **QC workflows**, **AMR annotation**, **LexicMap alignment**, and **migration history** — see the full navigation sidebar above.
-
----
-
-Let me know if you'd like this README tailored to include usage examples or links to specific Jupyter tutorials.
 
 [1]: https://allthebacteria.readthedocs.io/en/latest/overview.html?utm_source=chatgpt.com "Overview — AllTheBacteria documentation"
 [2]: https://allthebacteria.readthedocs.io/en/latest/assemblies.html?utm_source=chatgpt.com "Assemblies — AllTheBacteria documentation"
